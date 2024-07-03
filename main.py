@@ -28,6 +28,13 @@ s3 = boto3.client('s3', region_name=S3_REGION,
                   aws_access_key_id=S3_ACCESS_KEY,
                   aws_secret_access_key=S3_SECRET_KEY)
 
+    # Initialize the OpenAI API key
+openai_api_key = os.getenv("OPENAI_API_KEY")
+if not openai_api_key:
+    raise HTTPException(status_code=500, detail="OpenAI API key is not set")
+
+openai = OpenAI(api_key=openai_api_key, temperature=0)
+
 origins = [
     "http://localhost",
     "http://localhost:3001",
@@ -125,15 +132,22 @@ async def process_summary(request: DatasetSummary):
         print(e)
         raise HTTPException(status_code=500, detail=f"Unexpected error: {e}")
 
+
+class Question(BaseModel):
+    file_name: str
+    question: str
+
+@app.post("/chat")
+async def answer_question_route(request: Question):
+    file_name = request.file_name
+    question = request.question
+
+    file_path = f"./uploads/{file_name}"
+    answer = get_answer_from_csv(question, file_path)
+
+    return answer
         
 def process_dataset_with_ai(file_path: str):
-
-    # Initialize the OpenAI API key
-    openai_api_key = os.getenv("OPENAI_API_KEY")
-    if not openai_api_key:
-        raise HTTPException(status_code=500, detail="OpenAI API key is not set")
-    
-    openai = OpenAI(api_key=openai_api_key, temperature=0)
 
     # Create an agent to interact with the dataset
     try:
@@ -221,6 +235,44 @@ def process_file_basic(file_path: str):
     file_size = os.path.getsize(file_path)
     
     return num_rows, fields, file_size
+
+
+def get_answer_from_csv(question, csv_file_path):
+    file_extension = os.path.splitext(csv_file_path)[1].lower()
+
+    try:
+        if file_extension == '.csv':
+            df = pd.read_csv(csv_file_path, encoding='utf-8')
+        elif file_extension in ['.xls', '.xlsx']:
+            df = pd.read_excel(csv_file_path)
+        else:
+            raise HTTPException(status_code=400, detail="Unsupported file format")
+        
+        # Save the dataframe to a temporary CSV file for processing
+        temp_csv_path = csv_file_path + "_temp.csv"
+        df.to_csv(temp_csv_path, index=False)
+
+        agent = create_csv_agent(openai, temp_csv_path, verbose=True, allow_dangerous_code=True)
+        result = agent.run(question)
+        
+        # Assuming the last line after "Final Answer: " contains the answer
+        answer = {
+            "question": question,
+            "answer": result.split("Final Answer: ")[-1]
+        }
+
+        os.remove(temp_csv_path)
+
+        return answer
+    
+    except FileNotFoundError:
+        print(f"CSV file not found at path: {csv_file_path}")
+        return {"error": "CSV file not found"}
+
+
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
+        return {"error": "Unexpected error"}
 
 if __name__ == "__main__":
     import uvicorn
