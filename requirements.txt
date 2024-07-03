@@ -1,0 +1,10 @@
+boto3
+langchain
+openai
+fastapi
+uvicorn
+python-multipart
+pandas
+langchain_openai
+tabulate
+openpyxl
