@@ -38,6 +38,7 @@ openai = OpenAI(api_key=openai_api_key, temperature=0)
 origins = [
     "http://localhost",
     "http://localhost:3001",
+    "http://localhost:3000",
     "http://your-frontend-domain.com",  # Add your frontend domain here
 ]
 
