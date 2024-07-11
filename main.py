@@ -37,6 +37,7 @@ openai = OpenAI(api_key=openai_api_key, temperature=0)
 
 origins = [
     "http://localhost",
+    "http://localhost:3000",
     "http://localhost:3001",
     "http://localhost:3000",
     "http://your-frontend-domain.com",  # Add your frontend domain here
@@ -75,10 +76,11 @@ async def upload_file(file: UploadFile = File(...)):
         raise HTTPException(status_code=500, detail=f"Error processing file: {e}")        
    
     # # Upload files to S3
-    main_file_url = upload_to_s3(file_path, file.filename)
+    main_file_url = upload_to_s3(file_path, unique_filename)
         
     return {
         "main_file_url": main_file_url,
+        
         "num_rows": num_rows,
         "fields": fields,
         "file_size": file_size
@@ -147,7 +149,60 @@ async def answer_question_route(request: Question):
     answer = get_answer_from_csv(question, file_path)
 
     return answer
+
+
+class FileNameRequest(BaseModel):
+    file_name: str
+
+@app.post("/sample-questions")
+async def generate_sample_questions(request: FileNameRequest):
+    file_name = request.file_name
+    file_path = os.path.join("./uploads", file_name)
+
+    if not os.path.exists(file_path):
+        raise HTTPException(status_code=404, detail="File not found")
+
+    if not openai_api_key:
+        raise HTTPException(status_code=500, detail="OpenAI API key is not set")
+
+    file_extension = os.path.splitext(file_path)[1].lower()
+    try:
+        if file_extension == '.csv':
+            df = pd.read_csv(file_path, encoding='utf-8')
+        elif file_extension in ['.xls', '.xlsx']:
+            df = pd.read_excel(file_path)
+        else:
+            raise HTTPException(status_code=400, detail="Unsupported file format")
         
+        # Save the dataframe to a temporary CSV file for processing
+        temp_csv_path = file_path + "_temp.csv"
+        df.to_csv(temp_csv_path, index=False)
+        
+        # Create an agent to interact with the dataset
+        agent = create_csv_agent(openai, temp_csv_path, verbose=True, allow_dangerous_code=True)
+        
+        # Generate sample questions
+        questions_result = agent.run("Based on this dataset, generate 4 insightful sample questions that could be asked about the data. You can suggest the questions by basing yourself on the column titles to reduce the iterations. Return only the questions in a numbered list format.")
+        
+        # Extract questions from the result
+        questions = questions_result.split("Final Answer:")[-1].strip().split("\n")
+        questions = [q.strip().lstrip("1234. ") for q in questions if q.strip()]
+
+        # Remove the temporary CSV file
+        os.remove(temp_csv_path)
+        
+        return {
+            "questions": questions[:4]  # Ensure we return exactly 4 questions
+        }
+    
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail="File not found")
+    except pd.errors.EmptyDataError:
+        raise HTTPException(status_code=400, detail="Empty file or invalid content")
+    except Exception as e:
+        print(e)
+        raise HTTPException(status_code=500, detail=f"Unexpected error: {e}")        
+
 def process_dataset_with_ai(file_path: str):
 
     # Create an agent to interact with the dataset
@@ -185,9 +240,8 @@ def process_dataset_with_ai(file_path: str):
 def upload_to_s3(file_path: str, filename: str):
     try:
         print(f"FILE ${S3_ACCESS_KEY} ${S3_SECRET_KEY} ${S3_BUCKET} ${S3_REGION}")
-        unique_filename = f"{uuid.uuid4()}_{filename}"
-        s3.upload_file(file_path, S3_BUCKET, unique_filename)
-        file_url = f"https://d38hsgu31iejbq.cloudfront.net/{unique_filename}"
+        s3.upload_file(file_path, S3_BUCKET, filename)
+        file_url = f"https://d38hsgu31iejbq.cloudfront.net/{filename}"
         return file_url
     except FileNotFoundError:
         return "The file was not found"
@@ -236,7 +290,6 @@ def process_file_basic(file_path: str):
     file_size = os.path.getsize(file_path)
     
     return num_rows, fields, file_size
-
 
 def get_answer_from_csv(question, csv_file_path):
     file_extension = os.path.splitext(csv_file_path)[1].lower()
