@@ -79,8 +79,7 @@ async def upload_file(file: UploadFile = File(...)):
     main_file_url = upload_to_s3(file_path, unique_filename)
         
     return {
-        "main_file_url": main_file_url,
-        
+        "main_file_url": main_file_url,        
         "num_rows": num_rows,
         "fields": fields,
         "file_size": file_size
