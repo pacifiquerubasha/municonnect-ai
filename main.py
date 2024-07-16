@@ -7,11 +7,11 @@ import os
 import boto3
 from botocore.exceptions import NoCredentialsError
 import pandas as pd
-from langchain_community.llms import OpenAI
+# from langchain_community.llms import OpenAI
 import uuid
 from dotenv import load_dotenv
 from langchain_experimental.agents.agent_toolkits.csv.base import create_csv_agent
-from langchain_openai import OpenAI
+from langchain_openai import ChatOpenAI
 
 app = FastAPI()
 
@@ -33,7 +33,13 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 if not openai_api_key:
     raise HTTPException(status_code=500, detail="OpenAI API key is not set")
 
-openai = OpenAI(api_key=openai_api_key, temperature=0)
+openai = ChatOpenAI(
+    api_key=openai_api_key, 
+    model="gpt-4",
+    temperature=0,
+    max_tokens=None,
+    timeout=None,
+    max_retries=2)
 
 origins = [
     "http://localhost",
@@ -50,9 +56,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-openai_api_key = os.getenv("OPENAI_API_KEY")
-openai = OpenAI(api_key=openai_api_key, temperature=0)
 
 class DatasetMetadata(BaseModel):
     name: str
@@ -113,7 +116,7 @@ async def process_summary(request: DatasetSummary):
         df.to_csv(temp_csv_path, index=False)
         
         # Create an agent to interact with the dataset
-        agent = create_csv_agent(openai, temp_csv_path, verbose=True, allow_dangerous_code=True)
+        agent = create_csv_agent(openai, temp_csv_path, verbose=True, allow_dangerous_code=True, handle_parsing_errors=True)
         
         # Generate summary
         summary_result = agent.run(f"Please provide a clear and well thought out summary of this dataset. And if applicable, describe how it helps in the development in a typical city in Congo in the domain of {domain}.")
@@ -142,7 +145,7 @@ class Question(BaseModel):
 @app.post("/chat")
 async def answer_question_route(request: Question):
     file_name = request.file_name
-    question = request.question
+    question = f"{request.question}. Return the answer in a clear, concise and non-technical manner. Remember you are a problem-solving agent."
 
     file_path = f"./uploads/{file_name}"
     answer = get_answer_from_csv(question, file_path)
@@ -181,7 +184,7 @@ async def generate_sample_questions(request: FileNameRequest):
         agent = create_csv_agent(openai, temp_csv_path, verbose=True, allow_dangerous_code=True)
         
         # Generate sample questions
-        questions_result = agent.run("Based on this dataset, generate 4 insightful sample questions that could be asked about the data. You can suggest the questions by basing yourself on the column titles to reduce the iterations. Return only the questions in a numbered list format.")
+        questions_result = agent.run("Based on this dataset, generate 4 insightful sample questions that could be asked about the data to provide value to a city/country. You can suggest the questions by basing yourself on the column titles to reduce the iterations. Return only the questions in a numbered list format.")
         
         # Extract questions from the result
         questions = questions_result.split("Final Answer:")[-1].strip().split("\n")

@@ -1,0 +1,642 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,,,#date+year,#indicator+type,#indicator+value+num,,
+COD,2000-01-01,2000-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,2.328813,I,base year is 2015
+COD,2001-01-01,2001-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,15.563172,I,base year is 2015
+COD,2002-01-01,2002-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,30.755311,I,base year is 2015
+COD,2003-01-01,2003-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,34.756018,I,base year is 2015
+COD,2004-01-01,2004-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,36.328292,I,base year is 2015
+COD,2005-01-01,2005-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,40.295681,I,base year is 2015
+COD,2006-01-01,2006-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,48.128081,I,base year is 2015
+COD,2007-01-01,2007-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,57.180817,I,base year is 2015
+COD,2008-01-01,2008-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,62.810588,I,base year is 2015
+COD,2009-01-01,2009-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,83.649267,I,base year is 2015
+COD,2010-01-01,2010-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,75.606358,I,base year is 2015
+COD,2011-01-01,2011-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,81.875817,I,base year is 2015
+COD,2012-01-01,2012-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,97.922450,X,base year is 2015
+COD,2013-01-01,2013-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,97.389706,X,base year is 2015
+COD,2014-01-01,2014-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,98.465437,X,base year is 2015
+COD,2015-01-01,2015-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.590695,X,base year is 2015
+COD,2016-01-01,2016-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,100.614680,X,base year is 2015
+COD,2017-01-01,2017-01-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,112.136647,X,base year is 2015
+COD,2000-02-01,2000-02-29,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,2.633090,I,base year is 2015
+COD,2001-02-01,2001-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,10.002778,I,base year is 2015
+COD,2002-02-01,2002-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,31.392617,I,base year is 2015
+COD,2003-02-01,2003-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,35.295999,I,base year is 2015
+COD,2004-02-01,2004-02-29,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,36.462424,I,base year is 2015
+COD,2005-02-01,2005-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,41.621980,I,base year is 2015
+COD,2006-02-01,2006-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,48.415699,I,base year is 2015
+COD,2007-02-01,2007-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,58.227954,I,base year is 2015
+COD,2008-02-01,2008-02-29,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,63.598878,I,base year is 2015
+COD,2009-02-01,2009-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,85.785373,I,base year is 2015
+COD,2010-02-01,2010-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,76.860275,I,base year is 2015
+COD,2011-02-01,2011-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,83.235848,I,base year is 2015
+COD,2012-02-01,2012-02-29,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,96.840570,X,base year is 2015
+COD,2013-02-01,2013-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,97.471666,X,base year is 2015
+COD,2014-02-01,2014-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,98.600758,X,base year is 2015
+COD,2015-02-01,2015-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,99.646920,X,base year is 2015
+COD,2016-02-01,2016-02-29,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,100.734422,X,base year is 2015
+COD,2017-02-01,2017-02-28,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,114.537376,X,base year is 2015
+COD,2000-03-01,2000-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,2.742258,I,base year is 2015
+COD,2001-03-01,2001-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,17.860938,I,base year is 2015
+COD,2002-03-01,2002-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,31.183870,I,base year is 2015
+COD,2003-03-01,2003-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,35.997204,I,base year is 2015
+COD,2004-03-01,2004-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,36.671057,I,base year is 2015
+COD,2005-03-01,2005-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,43.224572,I,base year is 2015
+COD,2006-03-01,2006-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,49.023289,I,base year is 2015
+COD,2007-03-01,2007-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,59.299512,I,base year is 2015
+COD,2008-03-01,2008-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,64.274777,I,base year is 2015
+COD,2009-03-01,2009-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,89.785335,I,base year is 2015
+COD,2010-03-01,2010-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,77.049415,I,base year is 2015
+COD,2011-03-01,2011-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,85.086192,I,base year is 2015
+COD,2012-03-01,2012-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,96.836472,X,base year is 2015
+COD,2013-03-01,2013-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,97.529039,X,base year is 2015
+COD,2014-03-01,2014-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,98.827220,X,base year is 2015
+COD,2015-03-01,2015-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,99.708120,X,base year is 2015
+COD,2016-03-01,2016-03-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,100.957358,X,base year is 2015
+COD,2000-04-01,2000-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,2.869670,I,base year is 2015
+COD,2001-04-01,2001-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,20.575732,I,base year is 2015
+COD,2002-04-01,2002-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,30.797494,I,base year is 2015
+COD,2003-04-01,2003-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,36.162445,I,base year is 2015
+COD,2004-04-01,2004-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,37.066927,I,base year is 2015
+COD,2005-04-01,2005-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,45.979173,I,base year is 2015
+COD,2006-04-01,2006-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,49.252925,I,base year is 2015
+COD,2007-04-01,2007-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,59.945059,I,base year is 2015
+COD,2008-04-01,2008-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,65.216775,I,base year is 2015
+COD,2009-04-01,2009-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,97.583189,I,base year is 2015
+COD,2010-04-01,2010-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,77.049006,I,base year is 2015
+COD,2011-04-01,2011-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,87.049644,I,base year is 2015
+COD,2012-04-01,2012-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,96.877452,X,base year is 2015
+COD,2013-04-01,2013-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,97.562498,X,base year is 2015
+COD,2014-04-01,2014-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,98.956294,X,base year is 2015
+COD,2015-04-01,2015-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,99.763791,X,base year is 2015
+COD,2016-04-01,2016-04-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,101.133498,X,base year is 2015
+COD,2000-05-01,2000-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,3.193212,I,base year is 2015
+COD,2001-05-01,2001-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,23.469462,I,base year is 2015
+COD,2002-05-01,2002-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,30.736516,I,base year is 2015
+COD,2003-05-01,2003-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,36.268639,I,base year is 2015
+COD,2004-05-01,2004-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,37.179222,I,base year is 2015
+COD,2005-05-01,2005-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,46.950530,I,base year is 2015
+COD,2006-05-01,2006-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,49.956230,I,base year is 2015
+COD,2007-05-01,2007-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,60.840092,I,base year is 2015
+COD,2008-05-01,2008-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,67.442816,I,base year is 2015
+COD,2009-05-01,2009-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,97.463340,I,base year is 2015
+COD,2010-05-01,2010-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,77.246473,I,base year is 2015
+COD,2011-05-01,2011-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,88.846706,I,base year is 2015
+COD,2012-05-01,2012-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,96.938922,X,base year is 2015
+COD,2013-05-01,2013-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,97.653106,X,base year is 2015
+COD,2014-05-01,2014-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,99.116433,X,base year is 2015
+COD,2015-05-01,2015-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,99.827386,X,base year is 2015
+COD,2016-05-01,2016-05-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,101.289507,X,base year is 2015
+COD,2000-06-01,2000-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,4.212309,I,base year is 2015
+COD,2001-06-01,2001-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,30.175138,I,base year is 2015
+COD,2002-06-01,2002-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,31.484523,I,base year is 2015
+COD,2003-06-01,2003-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,36.575476,I,base year is 2015
+COD,2004-06-01,2004-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,37.226423,I,base year is 2015
+COD,2005-06-01,2005-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,45.677097,I,base year is 2015
+COD,2006-06-01,2006-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,50.718988,I,base year is 2015
+COD,2007-06-01,2007-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,60.922648,I,base year is 2015
+COD,2008-06-01,2008-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,70.508960,I,base year is 2015
+COD,2009-06-01,2009-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,97.240705,I,base year is 2015
+COD,2010-06-01,2010-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,77.275545,I,base year is 2015
+COD,2011-06-01,2011-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,90.678175,I,base year is 2015
+COD,2012-06-01,2012-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,96.957363,X,base year is 2015
+COD,2013-06-01,2013-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,97.718948,X,base year is 2015
+COD,2014-06-01,2014-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,99.244056,X,base year is 2015
+COD,2015-06-01,2015-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,99.897661,X,base year is 2015
+COD,2016-06-01,2016-06-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,101.619497,X,base year is 2015
+COD,2000-07-01,2000-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,4.912040,I,base year is 2015
+COD,2001-07-01,2001-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,27.200207,I,base year is 2015
+COD,2002-07-01,2002-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,31.834670,I,base year is 2015
+COD,2003-07-01,2003-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,36.728396,I,base year is 2015
+COD,2004-07-01,2004-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,37.334733,I,base year is 2015
+COD,2005-07-01,2005-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,45.461889,I,base year is 2015
+COD,2006-07-01,2006-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,51.141598,I,base year is 2015
+COD,2007-07-01,2007-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,60.370425,I,base year is 2015
+COD,2008-07-01,2008-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,73.561557,I,base year is 2015
+COD,2009-07-01,2009-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,97.018068,I,base year is 2015
+COD,2010-07-01,2010-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,77.281119,I,base year is 2015
+COD,2011-07-01,2011-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,91.932812,I,base year is 2015
+COD,2012-07-01,2012-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,97.041373,X,base year is 2015
+COD,2013-07-01,2013-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,97.810607,X,base year is 2015
+COD,2014-07-01,2014-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,99.335469,X,base year is 2015
+COD,2015-07-01,2015-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,99.999771,X,base year is 2015
+COD,2016-07-01,2016-07-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,102.236732,X,base year is 2015
+COD,2000-08-01,2000-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,5.549083,I,base year is 2015
+COD,2001-08-01,2001-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,27.709484,I,base year is 2015
+COD,2002-08-01,2002-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,32.072120,I,base year is 2015
+COD,2003-08-01,2003-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,36.936953,I,base year is 2015
+COD,2004-08-01,2004-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,37.577477,I,base year is 2015
+COD,2005-08-01,2005-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,47.696459,I,base year is 2015
+COD,2006-08-01,2006-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,51.656030,I,base year is 2015
+COD,2007-08-01,2007-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,60.511862,I,base year is 2015
+COD,2008-08-01,2008-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,74.803227,I,base year is 2015
+COD,2009-08-01,2009-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,96.795429,I,base year is 2015
+COD,2010-08-01,2010-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,77.383776,I,base year is 2015
+COD,2011-08-01,2011-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,92.651508,I,base year is 2015
+COD,2012-08-01,2012-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,97.102844,X,base year is 2015
+COD,2013-08-01,2013-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,97.977045,X,base year is 2015
+COD,2014-08-01,2014-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,99.391858,X,base year is 2015
+COD,2015-08-01,2015-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,100.090368,X,base year is 2015
+COD,2016-08-01,2016-08-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,102.930182,X,base year is 2015
+COD,2000-09-01,2000-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,6.735097,I,base year is 2015
+COD,2001-09-01,2001-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,29.207482,I,base year is 2015
+COD,2002-09-01,2002-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,32.361382,I,base year is 2015
+COD,2003-09-01,2003-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,36.795221,I,base year is 2015
+COD,2004-09-01,2004-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,38.111220,I,base year is 2015
+COD,2005-09-01,2005-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,47.457865,I,base year is 2015
+COD,2006-09-01,2006-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,52.754352,I,base year is 2015
+COD,2007-09-01,2007-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,60.631153,I,base year is 2015
+COD,2008-09-01,2008-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,75.416054,I,base year is 2015
+COD,2009-09-01,2009-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,96.572788,I,base year is 2015
+COD,2010-09-01,2010-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,77.810247,I,base year is 2015
+COD,2011-09-01,2011-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,93.082406,I,base year is 2015
+COD,2012-09-01,2012-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,97.123334,X,base year is 2015
+COD,2013-09-01,2013-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,98.018603,X,base year is 2015
+COD,2014-09-01,2014-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,99.453735,X,base year is 2015
+COD,2015-09-01,2015-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,100.181422,X,base year is 2015
+COD,2016-09-01,2016-09-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,103.804177,X,base year is 2015
+COD,2000-10-01,2000-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,7.725998,I,base year is 2015
+COD,2001-10-01,2001-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,30.038443,I,base year is 2015
+COD,2002-10-01,2002-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,32.945488,I,base year is 2015
+COD,2003-10-01,2003-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,36.256007,I,base year is 2015
+COD,2004-10-01,2004-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,39.007166,I,base year is 2015
+COD,2005-10-01,2005-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,47.367427,I,base year is 2015
+COD,2006-10-01,2006-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,54.318401,I,base year is 2015
+COD,2007-10-01,2007-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,61.016631,I,base year is 2015
+COD,2008-10-01,2008-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,75.359230,I,base year is 2015
+COD,2009-10-01,2009-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,96.350144,I,base year is 2015
+COD,2010-10-01,2010-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,78.542013,I,base year is 2015
+COD,2011-10-01,2011-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,93.256554,I,base year is 2015
+COD,2012-10-01,2012-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,97.205294,X,base year is 2015
+COD,2013-10-01,2013-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,98.121606,X,base year is 2015
+COD,2014-10-01,2014-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,99.509417,X,base year is 2015
+COD,2015-10-01,2015-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.321196,X,base year is 2015
+COD,2016-10-01,2016-10-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,104.971544,X,base year is 2015
+COD,2000-11-01,2000-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,9.222630,I,base year is 2015
+COD,2001-11-01,2001-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,30.915346,I,base year is 2015
+COD,2002-11-01,2002-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,34.465176,I,base year is 2015
+COD,2003-11-01,2003-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,36.195761,I,base year is 2015
+COD,2004-11-01,2004-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,39.124043,I,base year is 2015
+COD,2005-11-01,2005-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,47.627372,I,base year is 2015
+COD,2006-11-01,2006-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,56.207387,I,base year is 2015
+COD,2007-11-01,2007-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,61.608149,I,base year is 2015
+COD,2008-11-01,2008-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,76.128942,I,base year is 2015
+COD,2009-11-01,2009-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,98.776849,I,base year is 2015
+COD,2010-11-01,2010-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,79.743591,I,base year is 2015
+COD,2011-11-01,2011-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,93.376780,I,base year is 2015
+COD,2012-11-01,2012-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,97.205294,X,base year is 2015
+COD,2013-11-01,2013-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,98.245414,X,base year is 2015
+COD,2014-11-01,2014-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,99.564856,X,base year is 2015
+COD,2015-11-01,2015-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.424025,X,base year is 2015
+COD,2016-11-01,2016-11-30,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,106.089469,X,base year is 2015
+COD,2000-12-01,2000-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,11.893861,I,base year is 2015
+COD,2001-12-01,2001-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,30.106557,I,base year is 2015
+COD,2002-12-01,2002-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,34.755187,I,base year is 2015
+COD,2003-12-01,2003-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,36.151710,I,base year is 2015
+COD,2004-12-01,2004-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,39.302735,I,base year is 2015
+COD,2005-12-01,2005-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,47.843936,I,base year is 2015
+COD,2006-12-01,2006-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,56.763392,I,base year is 2015
+COD,2007-12-01,2007-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,62.127038,I,base year is 2015
+COD,2008-12-01,2008-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,78.063403,I,base year is 2015
+COD,2009-12-01,2009-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,98.916110,I,base year is 2015
+COD,2010-12-01,2010-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,80.557152,I,base year is 2015
+COD,2011-12-01,2011-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,93.550250,I,base year is 2015
+COD,2012-12-01,2012-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,97.307745,X,base year is 2015
+COD,2013-12-01,2013-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,98.281202,X,base year is 2015
+COD,2014-12-01,2014-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,99.567092,X,base year is 2015
+COD,2015-12-01,2015-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.554164,X,base year is 2015
+COD,2016-12-01,2016-12-31,250,'180,Democratic Republic of the Congo,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,109.950799,X,base year is 2015
+COD,2000-01-01,2000-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,2.296981,X,base year is 2015
+COD,2001-01-01,2001-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,15.463688,X,base year is 2015
+COD,2002-01-01,2002-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,30.639362,X,base year is 2015
+COD,2003-01-01,2003-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,34.641374,X,base year is 2015
+COD,2004-01-01,2004-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,36.214661,X,base year is 2015
+COD,2005-01-01,2005-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,40.185753,X,base year is 2015
+COD,2006-01-01,2006-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,48.029786,X,base year is 2015
+COD,2007-01-01,2007-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,57.102101,X,base year is 2015
+COD,2008-01-01,2008-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,62.746917,X,base year is 2015
+COD,2009-01-01,2009-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,83.657164,X,base year is 2015
+COD,2010-01-01,2010-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,75.583924,X,base year is 2015
+COD,2011-01-01,2011-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,81.876757,X,base year is 2015
+COD,2012-01-01,2012-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,97.092034,X,base year is 2015
+COD,2013-01-01,2013-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,97.633070,X,base year is 2015
+COD,2014-01-01,2014-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,98.704258,X,base year is 2015
+COD,2015-01-01,2015-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.683688,X,base year is 2015
+COD,2016-01-01,2016-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,100.505393,X,base year is 2015
+COD,2017-01-01,2017-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,112.730356,X,base year is 2015
+COD,2018-01-01,2018-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,144.638638,I,base year is 2015
+COD,2019-01-01,2019-01-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,183.242495,I,base year is 2015
+COD,2000-02-01,2000-02-29,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,2.598333,X,base year is 2015
+COD,2001-02-01,2001-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,9.921852,X,base year is 2015
+COD,2002-02-01,2002-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,31.276747,X,base year is 2015
+COD,2003-02-01,2003-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,35.181672,X,base year is 2015
+COD,2004-02-01,2004-02-29,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,36.348892,X,base year is 2015
+COD,2005-02-01,2005-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,41.513636,X,base year is 2015
+COD,2006-02-01,2006-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,48.317930,X,base year is 2015
+COD,2007-02-01,2007-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,58.151880,X,base year is 2015
+COD,2008-02-01,2008-02-29,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,63.537475,X,base year is 2015
+COD,2009-02-01,2009-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,85.801843,X,base year is 2015
+COD,2010-02-01,2010-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,76.842360,X,base year is 2015
+COD,2011-02-01,2011-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,83.242110,X,base year is 2015
+COD,2012-02-01,2012-02-29,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,97.012470,X,base year is 2015
+COD,2013-02-01,2013-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,97.702689,X,base year is 2015
+COD,2014-02-01,2014-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,98.825969,X,base year is 2015
+COD,2015-02-01,2015-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,99.711061,X,base year is 2015
+COD,2016-02-01,2016-02-29,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,100.595710,X,base year is 2015
+COD,2017-02-01,2017-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,114.918821,X,base year is 2015
+COD,2018-02-01,2018-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,148.082138,I,base year is 2015
+COD,2019-02-01,2019-02-28,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,183.967849,I,base year is 2015
+COD,2000-03-01,2000-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,2.706486,X,base year is 2015
+COD,2001-03-01,2001-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,17.756224,X,base year is 2015
+COD,2002-03-01,2002-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,31.067969,X,base year is 2015
+COD,2003-03-01,2003-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,35.883337,X,base year is 2015
+COD,2004-03-01,2004-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,36.557682,X,base year is 2015
+COD,2005-03-01,2005-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,43.118359,X,base year is 2015
+COD,2006-03-01,2006-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,48.926654,X,base year is 2015
+COD,2007-03-01,2007-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,59.226217,X,base year is 2015
+COD,2008-03-01,2008-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,64.215348,X,base year is 2015
+COD,2009-03-01,2009-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,89.818410,X,base year is 2015
+COD,2010-03-01,2010-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,77.032189,X,base year is 2015
+COD,2011-03-01,2011-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,85.099833,X,base year is 2015
+COD,2012-03-01,2012-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,97.054241,X,base year is 2015
+COD,2013-03-01,2013-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,97.752416,X,base year is 2015
+COD,2014-03-01,2014-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,98.994570,X,base year is 2015
+COD,2015-03-01,2015-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,99.765660,X,base year is 2015
+COD,2016-03-01,2016-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,100.760971,X,base year is 2015
+COD,2017-03-01,2017-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,117.546453,I,base year is 2015
+COD,2018-03-01,2018-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,151.525638,I,base year is 2015
+COD,2019-03-01,2019-03-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,184.693202,I,base year is 2015
+COD,2000-04-01,2000-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,2.832734,X,base year is 2015
+COD,2001-04-01,2001-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,20.466304,X,base year is 2015
+COD,2002-04-01,2002-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,30.681549,X,base year is 2015
+COD,2003-04-01,2003-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,36.048694,X,base year is 2015
+COD,2004-04-01,2004-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,36.953864,X,base year is 2015
+COD,2005-04-01,2005-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,45.877157,X,base year is 2015
+COD,2006-04-01,2006-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,49.156726,X,base year is 2015
+COD,2007-04-01,2007-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,59.873474,X,base year is 2015
+COD,2008-04-01,2008-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,65.160143,X,base year is 2015
+COD,2009-04-01,2009-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,97.650600,X,base year is 2015
+COD,2010-04-01,2010-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,77.031778,X,base year is 2015
+COD,2011-04-01,2011-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,87.071286,X,base year is 2015
+COD,2012-04-01,2012-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,97.127838,X,base year is 2015
+COD,2013-04-01,2013-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,97.795122,X,base year is 2015
+COD,2014-04-01,2014-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,99.088938,X,base year is 2015
+COD,2015-04-01,2015-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,99.833488,X,base year is 2015
+COD,2016-04-01,2016-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,100.900670,X,base year is 2015
+COD,2017-04-01,2017-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,120.174085,I,base year is 2015
+COD,2018-04-01,2018-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,154.969139,I,base year is 2015
+COD,2019-04-01,2019-04-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,185.418556,I,base year is 2015
+COD,2000-05-01,2000-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,3.153415,X,base year is 2015
+COD,2001-05-01,2001-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,23.356534,X,base year is 2015
+COD,2002-05-01,2002-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,30.620565,X,base year is 2015
+COD,2003-05-01,2003-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,36.154965,X,base year is 2015
+COD,2004-05-01,2004-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,37.066250,X,base year is 2015
+COD,2005-05-01,2005-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,46.850149,X,base year is 2015
+COD,2006-05-01,2006-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,49.861393,X,base year is 2015
+COD,2007-05-01,2007-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,60.770923,X,base year is 2015
+COD,2008-05-01,2008-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,67.393002,X,base year is 2015
+COD,2009-05-01,2009-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,97.530205,X,base year is 2015
+COD,2010-05-01,2010-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,77.229965,X,base year is 2015
+COD,2011-05-01,2011-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,88.875821,X,base year is 2015
+COD,2012-05-01,2012-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,97.175577,X,base year is 2015
+COD,2013-05-01,2013-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,97.869734,X,base year is 2015
+COD,2014-05-01,2014-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,99.210691,X,base year is 2015
+COD,2015-05-01,2015-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,99.882789,X,base year is 2015
+COD,2016-05-01,2016-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,101.020130,X,base year is 2015
+COD,2017-05-01,2017-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,122.801716,I,base year is 2015
+COD,2018-05-01,2018-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,158.412639,I,base year is 2015
+COD,2019-05-01,2019-05-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,186.143910,I,base year is 2015
+COD,2000-06-01,2000-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,4.164271,X,base year is 2015
+COD,2001-06-01,2001-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,30.059161,X,base year is 2015
+COD,2002-06-01,2002-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,31.368669,X,base year is 2015
+COD,2003-06-01,2003-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,36.462029,X,base year is 2015
+COD,2004-06-01,2004-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,37.113490,X,base year is 2015
+COD,2005-06-01,2005-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,45.574589,X,base year is 2015
+COD,2006-06-01,2006-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,50.625672,X,base year is 2015
+COD,2007-06-01,2007-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,60.853705,X,base year is 2015
+COD,2008-06-01,2008-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,70.469004,X,base year is 2015
+COD,2009-06-01,2009-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,97.306556,I,base year is 2015
+COD,2010-06-01,2010-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,77.259144,X,base year is 2015
+COD,2011-06-01,2011-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,90.715052,X,base year is 2015
+COD,2012-06-01,2012-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,97.215359,X,base year is 2015
+COD,2013-06-01,2013-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,97.921643,X,base year is 2015
+COD,2014-06-01,2014-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,99.302370,X,base year is 2015
+COD,2015-06-01,2015-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,99.938375,X,base year is 2015
+COD,2016-06-01,2016-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,101.341655,X,base year is 2015
+COD,2017-06-01,2017-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,125.429348,I,base year is 2015
+COD,2018-06-01,2018-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,161.856140,I,base year is 2015
+COD,2019-06-01,2019-06-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,186.869263,I,base year is 2015
+COD,2000-07-01,2000-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,4.858911,X,base year is 2015
+COD,2001-07-01,2001-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,27.084785,X,base year is 2015
+COD,2002-07-01,2002-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,31.718885,X,base year is 2015
+COD,2003-07-01,2003-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,36.615065,X,base year is 2015
+COD,2004-07-01,2004-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,37.221889,X,base year is 2015
+COD,2005-07-01,2005-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,45.359035,X,base year is 2015
+COD,2006-07-01,2006-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,51.049143,X,base year is 2015
+COD,2007-07-01,2007-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,60.299981,X,base year is 2015
+COD,2008-07-01,2008-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,73.531929,X,base year is 2015
+COD,2009-07-01,2009-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,97.082907,I,base year is 2015
+COD,2010-07-01,2010-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,77.264739,X,base year is 2015
+COD,2011-07-01,2011-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,91.975090,X,base year is 2015
+COD,2012-07-01,2012-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,97.261108,X,base year is 2015
+COD,2013-07-01,2013-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,98.007008,X,base year is 2015
+COD,2014-07-01,2014-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,99.379036,X,base year is 2015
+COD,2015-07-01,2015-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,100.011717,X,base year is 2015
+COD,2016-07-01,2016-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,101.915246,X,base year is 2015
+COD,2017-07-01,2017-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,128.056979,I,base year is 2015
+COD,2018-07-01,2018-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,165.299640,I,base year is 2015
+COD,2019-07-01,2019-07-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,187.594617,I,base year is 2015
+COD,2000-08-01,2000-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,5.491654,X,base year is 2015
+COD,2001-08-01,2001-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,27.593880,X,base year is 2015
+COD,2002-08-01,2002-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,31.956390,X,base year is 2015
+COD,2003-08-01,2003-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,36.823785,X,base year is 2015
+COD,2004-08-01,2004-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,37.464839,X,base year is 2015
+COD,2005-08-01,2005-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,47.597386,X,base year is 2015
+COD,2006-08-01,2006-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,51.564641,X,base year is 2015
+COD,2007-08-01,2007-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,60.441801,X,base year is 2015
+COD,2008-08-01,2008-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,74.777942,X,base year is 2015
+COD,2009-08-01,2009-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,96.859258,I,base year is 2015
+COD,2010-08-01,2010-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,77.367771,X,base year is 2015
+COD,2011-08-01,2011-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,92.696909,X,base year is 2015
+COD,2012-08-01,2012-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,97.322770,X,base year is 2015
+COD,2013-08-01,2013-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,98.164188,X,base year is 2015
+COD,2014-08-01,2014-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,99.427437,X,base year is 2015
+COD,2015-08-01,2015-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,100.076641,X,base year is 2015
+COD,2016-08-01,2016-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,102.529544,X,base year is 2015
+COD,2017-08-01,2017-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,130.684611,I,base year is 2015
+COD,2018-08-01,2018-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,168.743140,I,base year is 2015
+COD,2019-08-01,2019-08-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,188.319970,I,base year is 2015
+COD,2000-09-01,2000-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,6.670392,X,base year is 2015
+COD,2001-09-01,2001-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,29.091555,X,base year is 2015
+COD,2002-09-01,2002-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,32.245728,X,base year is 2015
+COD,2003-09-01,2003-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,36.681942,X,base year is 2015
+COD,2004-09-01,2004-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,37.999056,X,base year is 2015
+COD,2005-09-01,2005-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,47.358369,X,base year is 2015
+COD,2006-09-01,2006-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,52.665308,X,base year is 2015
+COD,2007-09-01,2007-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,60.561415,X,base year is 2015
+COD,2008-09-01,2008-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,75.392941,X,base year is 2015
+COD,2009-09-01,2009-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,96.635609,I,base year is 2015
+COD,2010-09-01,2010-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,77.795809,X,base year is 2015
+COD,2011-09-01,2011-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,93.129690,X,base year is 2015
+COD,2012-09-01,2012-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,97.376476,X,base year is 2015
+COD,2013-09-01,2013-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,98.268539,X,base year is 2015
+COD,2014-09-01,2014-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,99.475474,X,base year is 2015
+COD,2015-09-01,2015-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,100.137993,X,base year is 2015
+COD,2016-09-01,2016-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,103.428068,X,base year is 2015
+COD,2017-09-01,2017-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,133.312243,I,base year is 2015
+COD,2018-09-01,2018-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,172.186641,I,base year is 2015
+COD,2019-09-01,2019-09-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,189.045324,I,base year is 2015
+COD,2000-10-01,2000-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,7.655838,X,base year is 2015
+COD,2001-10-01,2001-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,29.922466,X,base year is 2015
+COD,2002-10-01,2002-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,32.830019,X,base year is 2015
+COD,2003-10-01,2003-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,36.142323,X,base year is 2015
+COD,2004-10-01,2004-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,38.895863,X,base year is 2015
+COD,2005-10-01,2005-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,47.267772,X,base year is 2015
+COD,2006-10-01,2006-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,54.232848,X,base year is 2015
+COD,2007-10-01,2007-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,60.947945,X,base year is 2015
+COD,2008-10-01,2008-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,75.335916,X,base year is 2015
+COD,2009-10-01,2009-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,96.411960,X,base year is 2015
+COD,2010-10-01,2010-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,78.530283,X,base year is 2015
+COD,2011-10-01,2011-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,93.304601,X,base year is 2015
+COD,2012-10-01,2012-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,97.412280,X,base year is 2015
+COD,2013-10-01,2013-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,98.379422,X,base year is 2015
+COD,2014-10-01,2014-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,99.529936,X,base year is 2015
+COD,2015-10-01,2015-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.233509,X,base year is 2015
+COD,2016-10-01,2016-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,104.656181,X,base year is 2015
+COD,2017-10-01,2017-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,135.939874,I,base year is 2015
+COD,2018-10-01,2018-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,175.630141,I,base year is 2015
+COD,2019-10-01,2019-10-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,189.770677,I,base year is 2015
+COD,2000-11-01,2000-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,9.145142,X,base year is 2015
+COD,2001-11-01,2001-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,30.799412,X,base year is 2015
+COD,2002-11-01,2002-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,34.350375,X,base year is 2015
+COD,2003-11-01,2003-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,36.082034,X,base year is 2015
+COD,2004-11-01,2004-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,39.012858,X,base year is 2015
+COD,2005-11-01,2005-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,47.528176,X,base year is 2015
+COD,2006-11-01,2006-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,56.126282,X,base year is 2015
+COD,2007-11-01,2007-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,61.541094,X,base year is 2015
+COD,2008-11-01,2008-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,76.108382,X,base year is 2015
+COD,2009-11-01,2009-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,98.849735,X,base year is 2015
+COD,2010-11-01,2010-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,79.736365,X,base year is 2015
+COD,2011-11-01,2011-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,93.425355,X,base year is 2015
+COD,2012-11-01,2012-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,97.487866,X,base year is 2015
+COD,2013-11-01,2013-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,98.456484,X,base year is 2015
+COD,2014-11-01,2014-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,99.574885,X,base year is 2015
+COD,2015-11-01,2015-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.306842,X,base year is 2015
+COD,2016-11-01,2016-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,106.292959,X,base year is 2015
+COD,2017-11-01,2017-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,138.567506,I,base year is 2015
+COD,2018-11-01,2018-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,179.073641,I,base year is 2015
+COD,2019-11-01,2019-11-30,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,190.496031,I,base year is 2015
+COD,2000-12-01,2000-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,11.805543,X,base year is 2015
+COD,2001-12-01,2001-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,29.990580,X,base year is 2015
+COD,2002-12-01,2002-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,34.640542,X,base year is 2015
+COD,2003-12-01,2003-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,36.037952,X,base year is 2015
+COD,2004-12-01,2004-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,39.191733,X,base year is 2015
+COD,2005-12-01,2005-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,47.745127,X,base year is 2015
+COD,2006-12-01,2006-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,56.683644,X,base year is 2015
+COD,2007-12-01,2007-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,62.061433,X,base year is 2015
+COD,2008-12-01,2008-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,78.049898,X,base year is 2015
+COD,2009-12-01,2009-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,98.989638,X,base year is 2015
+COD,2010-12-01,2010-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,80.553017,X,base year is 2015
+COD,2011-12-01,2011-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,93.599588,X,base year is 2015
+COD,2012-12-01,2012-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,97.543560,X,base year is 2015
+COD,2013-12-01,2013-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,98.563886,X,base year is 2015
+COD,2014-12-01,2014-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,99.625169,X,base year is 2015
+COD,2015-12-01,2015-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.421410,X,base year is 2015
+COD,2016-12-01,2016-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,110.686951,X,base year is 2015
+COD,2017-12-01,2017-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,141.195137,X,base year is 2015
+COD,2018-12-01,2018-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,182.517142,X,base year is 2015
+COD,2019-12-01,2019-12-31,250,'180,Democratic Republic of the Congo,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,191.221384,X,base year is 2015
+COD,2001-01-01,2001-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,568.287873,E,
+COD,2002-01-01,2002-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,97.615956,E,
+COD,2003-01-01,2003-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,13.008183,E,
+COD,2004-01-01,2004-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,4.523744,E,
+COD,2005-01-01,2005-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,10.920935,E,
+COD,2006-01-01,2006-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,19.437320,E,
+COD,2007-01-01,2007-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,18.809675,E,
+COD,2008-01-01,2008-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,9.845559,E,
+COD,2009-01-01,2009-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,33.177017,E,
+COD,2010-01-01,2010-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,-9.615038,E,
+COD,2011-01-01,2011-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,8.292238,E,
+COD,2012-01-01,2012-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,19.598746,E,
+COD,2013-01-01,2013-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,-0.544047,E,
+COD,2014-01-01,2014-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,1.104564,E,
+COD,2015-01-01,2015-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,1.142794,E,
+COD,2016-01-01,2016-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,1.028194,E,
+COD,2017-01-01,2017-01-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,11.451576,E,
+COD,2001-02-01,2001-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,279.887493,E,
+COD,2002-02-01,2002-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,213.838986,E,
+COD,2003-02-01,2003-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,12.434075,E,
+COD,2004-02-01,2004-02-29,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,3.304696,E,
+COD,2005-02-01,2005-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,14.150337,E,
+COD,2006-02-01,2006-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,16.322431,E,
+COD,2007-02-01,2007-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,20.266681,E,
+COD,2008-02-01,2008-02-29,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,9.223961,E,
+COD,2009-02-01,2009-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,34.885042,E,
+COD,2010-02-01,2010-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,-10.403985,E,
+COD,2011-02-01,2011-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,8.295017,E,
+COD,2012-02-01,2012-02-29,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,16.344786,E,
+COD,2013-02-01,2013-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,0.651686,E,
+COD,2014-02-01,2014-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,1.158380,E,
+COD,2015-02-01,2015-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,1.061008,E,
+COD,2016-02-01,2016-02-29,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,1.091356,E,
+COD,2017-02-01,2017-02-28,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,13.702320,E,
+COD,2001-03-01,2001-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,551.322302,E,
+COD,2002-03-01,2002-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,74.592566,E,
+COD,2003-03-01,2003-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,15.435332,E,
+COD,2004-03-01,2004-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,1.871960,E,
+COD,2005-03-01,2005-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,17.871081,E,
+COD,2006-03-01,2006-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,13.415326,E,
+COD,2007-03-01,2007-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,20.961922,E,
+COD,2008-03-01,2008-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,8.390061,E,
+COD,2009-03-01,2009-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,39.689843,E,
+COD,2010-03-01,2010-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,-14.184855,E,
+COD,2011-03-01,2011-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,10.430678,E,
+COD,2012-03-01,2012-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,13.809855,E,
+COD,2013-03-01,2013-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,0.715193,E,
+COD,2014-03-01,2014-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,1.331072,E,
+COD,2015-03-01,2015-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,0.891354,E,
+COD,2016-03-01,2016-03-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,1.252894,E,
+COD,2001-04-01,2001-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,617.006800,E,
+COD,2002-04-01,2002-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,49.678732,E,
+COD,2003-04-01,2003-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,17.420087,E,
+COD,2004-04-01,2004-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,2.501166,E,
+COD,2005-04-01,2005-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,24.043660,E,
+COD,2006-04-01,2006-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,7.120075,E,
+COD,2007-04-01,2007-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,21.708628,E,
+COD,2008-04-01,2008-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,8.794246,E,
+COD,2009-04-01,2009-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,49.628970,E,
+COD,2010-04-01,2010-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,-21.042746,E,
+COD,2011-04-01,2011-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,12.979581,E,
+COD,2012-04-01,2012-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,11.289888,E,
+COD,2013-04-01,2013-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,0.707127,E,
+COD,2014-04-01,2014-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,1.428618,E,
+COD,2015-04-01,2015-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,0.816014,E,
+COD,2016-04-01,2016-04-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,1.372950,E,
+COD,2001-05-01,2001-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,634.979723,E,
+COD,2002-05-01,2002-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,30.963869,E,
+COD,2003-05-01,2003-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,17.998537,E,
+COD,2004-05-01,2004-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,2.510661,E,
+COD,2005-05-01,2005-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,26.281637,E,
+COD,2006-05-01,2006-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,6.401844,E,
+COD,2007-05-01,2007-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,21.786797,E,
+COD,2008-05-01,2008-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,10.852586,E,
+COD,2009-05-01,2009-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,44.512561,E,
+COD,2010-05-01,2010-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,-20.743048,E,
+COD,2011-05-01,2011-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,15.017169,E,
+COD,2012-05-01,2012-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,9.108066,E,
+COD,2013-05-01,2013-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,0.736735,E,
+COD,2014-05-01,2014-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,1.498495,E,
+COD,2015-05-01,2015-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,0.717291,E,
+COD,2016-05-01,2016-05-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,1.464649,E,
+COD,2001-06-01,2001-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,616.356310,E,
+COD,2002-06-01,2002-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,4.339284,E,
+COD,2003-06-01,2003-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,16.169699,E,
+COD,2004-06-01,2004-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,1.779736,E,
+COD,2005-06-01,2005-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,22.700741,E,
+COD,2006-06-01,2006-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,11.038117,E,
+COD,2007-06-01,2007-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,20.118028,E,
+COD,2008-06-01,2008-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,15.735218,E,
+COD,2009-06-01,2009-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,37.912550,E,
+COD,2010-06-01,2010-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,-20.531690,E,
+COD,2011-06-01,2011-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,17.343947,E,
+COD,2012-06-01,2012-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,6.924697,E,
+COD,2013-06-01,2013-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,0.785484,E,
+COD,2014-06-01,2014-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,1.560708,E,
+COD,2015-06-01,2015-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,0.658583,E,
+COD,2016-06-01,2016-06-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,1.723600,E,
+COD,2001-07-01,2001-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,453.745585,E,
+COD,2002-07-01,2002-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,17.038335,E,
+COD,2003-07-01,2003-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,15.372316,E,
+COD,2004-07-01,2004-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,1.650866,E,
+COD,2005-07-01,2005-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,21.768352,E,
+COD,2006-07-01,2006-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,12.493342,E,
+COD,2007-07-01,2007-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,18.045636,E,
+COD,2008-07-01,2008-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,21.850322,E,
+COD,2009-07-01,2009-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,31.886915,E,
+COD,2010-07-01,2010-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,-20.343580,E,
+COD,2011-07-01,2011-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,18.958955,E,
+COD,2012-07-01,2012-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,5.556842,E,
+COD,2013-07-01,2013-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,0.792687,E,
+COD,2014-07-01,2014-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,1.558995,E,
+COD,2015-07-01,2015-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,0.668746,E,
+COD,2016-07-01,2016-07-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,2.236966,E,
+COD,2001-08-01,2001-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,399.352492,E,
+COD,2002-08-01,2002-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,15.744199,E,
+COD,2003-08-01,2003-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,15.168417,E,
+COD,2004-08-01,2004-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,1.734101,E,
+COD,2005-08-01,2005-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,26.928316,E,
+COD,2006-08-01,2006-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,8.301603,E,
+COD,2007-08-01,2007-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,17.143851,E,
+COD,2008-08-01,2008-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,23.617460,E,
+COD,2009-08-01,2009-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,29.400070,E,
+COD,2010-08-01,2010-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,-20.054307,E,
+COD,2011-08-01,2011-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,19.729887,E,
+COD,2012-08-01,2012-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,4.804386,E,
+COD,2013-08-01,2013-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,0.900284,E,
+COD,2014-08-01,2014-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,1.444025,E,
+COD,2015-08-01,2015-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,0.702783,E,
+COD,2016-08-01,2016-08-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,2.837250,E,
+COD,2001-09-01,2001-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,333.660871,E,
+COD,2002-09-01,2002-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,10.798260,E,
+COD,2003-09-01,2003-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,13.701019,E,
+COD,2004-09-01,2004-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,3.576549,E,
+COD,2005-09-01,2005-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,24.524656,E,
+COD,2006-09-01,2006-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,11.160398,E,
+COD,2007-09-01,2007-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,14.931092,E,
+COD,2008-09-01,2008-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,24.384991,E,
+COD,2009-09-01,2009-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,28.053355,E,
+COD,2010-09-01,2010-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,-19.428392,E,
+COD,2011-09-01,2011-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,19.627438,E,
+COD,2012-09-01,2012-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,4.341237,E,
+COD,2013-09-01,2013-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,0.921786,E,
+COD,2014-09-01,2014-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,1.464142,E,
+COD,2015-09-01,2015-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,0.731684,E,
+COD,2016-09-01,2016-09-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,3.616195,E,
+COD,2001-10-01,2001-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,288.796910,E,
+COD,2002-10-01,2002-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,9.677746,E,
+COD,2003-10-01,2003-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,10.048475,E,
+COD,2004-10-01,2004-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,7.588149,E,
+COD,2005-10-01,2005-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,21.432628,E,
+COD,2006-10-01,2006-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,14.674587,E,
+COD,2007-10-01,2007-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,12.331419,E,
+COD,2008-10-01,2008-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,23.506048,E,
+COD,2009-10-01,2009-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,27.854470,E,
+COD,2010-10-01,2010-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,-18.482724,E,
+COD,2011-10-01,2011-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,18.734611,E,
+COD,2012-10-01,2012-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,4.234277,E,
+COD,2013-10-01,2013-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,0.942656,E,
+COD,2014-10-01,2014-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,1.414378,E,
+COD,2015-10-01,2015-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,0.815781,E,
+COD,2016-10-01,2016-10-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,4.635459,E,
+COD,2001-11-01,2001-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,235.211819,E,
+COD,2002-11-01,2002-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,11.482422,E,
+COD,2003-11-01,2003-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,5.021255,E,
+COD,2004-11-01,2004-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,8.090126,E,
+COD,2005-11-01,2005-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,21.734278,E,
+COD,2006-11-01,2006-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,18.014883,E,
+COD,2007-11-01,2007-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,9.608635,E,
+COD,2008-11-01,2008-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,23.569598,E,
+COD,2009-11-01,2009-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,29.749404,E,
+COD,2010-11-01,2010-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,-19.268947,E,
+COD,2011-11-01,2011-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,17.096282,E,
+COD,2012-11-01,2012-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,4.100071,E,
+COD,2013-11-01,2013-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,1.070023,E,
+COD,2014-11-01,2014-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,1.343006,E,
+COD,2015-11-01,2015-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,0.862924,E,
+COD,2016-11-01,2016-11-30,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,5.641522,E,
+COD,2001-12-01,2001-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,153.126858,E,
+COD,2002-12-01,2002-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,15.440589,E,
+COD,2003-12-01,2003-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,4.018171,E,
+COD,2004-12-01,2004-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,8.716117,E,
+COD,2005-12-01,2005-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,21.731824,E,
+COD,2006-12-01,2006-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,18.642813,E,
+COD,2007-12-01,2007-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,9.449129,E,
+COD,2008-12-01,2008-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,25.651255,E,
+COD,2009-12-01,2009-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,26.712527,E,
+COD,2010-12-01,2010-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,-18.560129,E,
+COD,2011-12-01,2011-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,16.129043,E,
+COD,2012-12-01,2012-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,4.016553,E,
+COD,2013-12-01,2013-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,1.000390,E,
+COD,2014-12-01,2014-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,1.308378,E,
+COD,2015-12-01,2015-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,0.991364,E,
+COD,2016-12-01,2016-12-31,250,'180,Democratic Republic of the Congo,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,9.344850,E,
