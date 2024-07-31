@@ -28,7 +28,7 @@ s3 = boto3.client('s3', region_name=S3_REGION,
                   aws_access_key_id=S3_ACCESS_KEY,
                   aws_secret_access_key=S3_SECRET_KEY)
 
-    # Initialize the OpenAI API key
+
 openai_api_key = os.getenv("OPENAI_API_KEY")
 if not openai_api_key:
     raise HTTPException(status_code=500, detail="OpenAI API key is not set")
@@ -45,8 +45,8 @@ origins = [
     "http://localhost",
     "http://localhost:3000",
     "http://localhost:3001",
-    "http://localhost:3000",
-    "http://your-frontend-domain.com",  # Add your frontend domain here
+    "https://municonnect-fe.vercel.app",
+    "https://municonnect-be.onrender.com",  
 ]
 
 app.add_middleware(
