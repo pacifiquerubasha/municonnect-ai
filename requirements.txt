@@ -9,3 +9,4 @@ langchain_openai
 tabulate
 openpyxl
 langchain_experimental
+python-dotenv
