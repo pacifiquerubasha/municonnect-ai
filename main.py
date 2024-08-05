@@ -13,7 +13,36 @@ from dotenv import load_dotenv
 from langchain_experimental.agents.agent_toolkits.csv.base import create_csv_agent
 from langchain_openai import ChatOpenAI
 
-app = FastAPI()
+description = """
+Municonnect API helps you do awesome stuff with datasets. 🚀
+
+## Datasets
+
+You will be able to:
+
+* **Upload datasets**.
+* **Generate their summaries**.
+* **Generate sample questions**.
+* **Ask them questions in Natural language**.
+
+"""
+app = FastAPI(
+    root_path="/Prod",
+    title="Municonnect",
+    description=description,
+    summary="Your NLP dataset chat App.",
+    version="0.0.1",
+    terms_of_service="http://municonnect-fe.vercel.app/policies",
+    contact={
+        "name": "Pacifique Rubasha",
+        "url": "http://pacifiquerubasha.netlify.app",
+        "email": "p.kishinyambwe@alustudent.com",
+    },
+    license_info={
+        "name": "Apache 2.0",
+        "url": "https://www.apache.org/licenses/LICENSE-2.0.html",
+    },
+)
 
 load_dotenv()
 
@@ -56,6 +85,14 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Root Hello World
+@app.get("/")
+async def root():
+    return
+    {
+        "message": "Welcome to the Municonnect API"
+    }
 
 class DatasetMetadata(BaseModel):
     name: str
